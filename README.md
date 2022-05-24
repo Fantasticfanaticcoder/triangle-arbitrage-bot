@@ -1,3 +1,5 @@
+_*This is a SCAM*
+
 This is a DEX "decentralized exchange" triangle arbitrage bot that's written in simple JavaScript and is ran in your web browser.
 This is very straightforward easy to read and easy to modify if you wish to do so. It makes all calls with web3.
 I made a short YouTube video a tutorial on how to configure and run it here
